@@ -1,5 +1,5 @@
-# coding-practice
-repository for all the solutions to the coding problems 
+# Solution to LeetCode problems
+A repository for the solutions to the LeetCode problems. 
 
 ## Problems
 1. [Two Sum](https://leetcode.com/problems/two-sum/description/)
