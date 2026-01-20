@@ -7,3 +7,4 @@ A repository for the solutions to the Coding problems.
 3. [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 4. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 5. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/?envType=problem-list-v2&envId=sorting)
+6. [Majority Element](https://leetcode.com/problems/majority-element/submissions/1891450841/?envType=problem-list-v2&envId=sorting)
