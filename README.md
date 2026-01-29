@@ -10,3 +10,4 @@ A repository for the solutions to the Coding problems.
 6. [Majority Element](https://leetcode.com/problems/majority-element/submissions/1891450841/?envType=problem-list-v2&envId=sorting)
 7. [Contains Duplicates](https://leetcode.com/problems/contains-duplicate/submissions/1898020261/?envType=problem-list-v2&envId=sorting)
 8. [Pow(x, n)](https://leetcode.com/problems/powx-n/submissions/1901300695/?envType=problem-list-v2&envId=math)
+9. [Sqrt(x)](https://leetcode.com/problems/sqrtx/submissions/1901319631/?envType=problem-list-v2&envId=math)
