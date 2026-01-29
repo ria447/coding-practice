@@ -1,7 +1,7 @@
 import math 
 
 def mySqrt(x):
-  if x > 0:
+  if x >= 0:
     return int(math.sqrt(x))
     
 x = int(input("Enter a number:"))
