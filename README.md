@@ -9,3 +9,4 @@ A repository for the solutions to the Coding problems.
 5. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/?envType=problem-list-v2&envId=sorting)
 6. [Majority Element](https://leetcode.com/problems/majority-element/submissions/1891450841/?envType=problem-list-v2&envId=sorting)
 7. [Contains Duplicates](https://leetcode.com/problems/contains-duplicate/submissions/1898020261/?envType=problem-list-v2&envId=sorting)
+8. [Pow(x, n)](https://leetcode.com/problems/powx-n/submissions/1901300695/?envType=problem-list-v2&envId=math)
