@@ -12,3 +12,4 @@ A repository for the solutions to the Coding problems.
 8. [Pow(x, n)](https://leetcode.com/problems/powx-n/submissions/1901300695/?envType=problem-list-v2&envId=math)
 9. [Sqrt(x)](https://leetcode.com/problems/sqrtx/submissions/1901319631/?envType=problem-list-v2&envId=math)
 10. [Index of First Occurrence in a string](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=problem-list-v2&envId=string)
+11. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/?envType=problem-list-v2&envId=string)
