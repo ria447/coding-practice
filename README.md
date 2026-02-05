@@ -13,3 +13,4 @@ A repository for the solutions to the Coding problems.
 9. [Sqrt(x)](https://leetcode.com/problems/sqrtx/submissions/1901319631/?envType=problem-list-v2&envId=math)
 10. [Index of First Occurrence in a string](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=problem-list-v2&envId=string)
 11. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/?envType=problem-list-v2&envId=string)
+12. [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/?envType=problem-list-v2&envId=sorting)
