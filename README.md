@@ -14,3 +14,4 @@ A repository for the solutions to the Coding problems.
 10. [Index of First Occurrence in a string](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=problem-list-v2&envId=string)
 11. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/?envType=problem-list-v2&envId=string)
 12. [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/?envType=problem-list-v2&envId=sorting)
+13. [Can make Arithmetic Progression](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/?envType=problem-list-v2&envId=maths-m1-arithmetic-basic-reasoning)
