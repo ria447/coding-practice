@@ -16,3 +16,4 @@ A repository for the solutions to the Coding problems.
 12. [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/?envType=problem-list-v2&envId=sorting)
 13. [Can make Arithmetic Progression](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/?envType=problem-list-v2&envId=maths-m1-arithmetic-basic-reasoning)
 14. [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/description/?envType=problem-list-v2&envId=maths-m1-arithmetic-basic-reasoning)
+15. [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
