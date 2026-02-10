@@ -18,3 +18,4 @@ A repository for the solutions to the Coding problems.
 14. [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/description/?envType=problem-list-v2&envId=maths-m1-arithmetic-basic-reasoning)
 15. [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
 16. [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+17. [Remove Element](https://leetcode.com/problems/remove-element/submissions/1915092426/)
