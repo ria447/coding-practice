@@ -17,3 +17,4 @@ A repository for the solutions to the Coding problems.
 13. [Can make Arithmetic Progression](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/?envType=problem-list-v2&envId=maths-m1-arithmetic-basic-reasoning)
 14. [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/description/?envType=problem-list-v2&envId=maths-m1-arithmetic-basic-reasoning)
 15. [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
+16. [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
