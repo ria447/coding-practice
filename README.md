@@ -20,3 +20,4 @@ A repository for the solutions to the Coding problems.
 16. [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 17. [Remove Element](https://leetcode.com/problems/remove-element/submissions/1915092426/)
 18. [Reverse String](https://leetcode.com/problems/reverse-string/)
+19. [Best Time to Buy and Sell Stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
