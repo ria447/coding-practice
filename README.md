@@ -24,3 +24,4 @@ A repository for the solutions to the Coding problems.
 20. [Move Zeroes](https://leetcode.com/problems/move-zeroes/submissions/1916856427/)
 21. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 22. [Missing Number](https://leetcode.com/problems/missing-number/)
+23. [Single Number](https://leetcode.com/problems/single-number/)
