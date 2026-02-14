@@ -26,3 +26,4 @@ A repository for the solutions to the Coding problems.
 22. [Missing Number](https://leetcode.com/problems/missing-number/)
 23. [Single Number](https://leetcode.com/problems/single-number/)
 24. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)
+25. [Power of Two](https://leetcode.com/problems/power-of-two/)
