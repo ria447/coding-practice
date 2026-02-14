@@ -25,3 +25,4 @@ A repository for the solutions to the Coding problems.
 21. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 22. [Missing Number](https://leetcode.com/problems/missing-number/)
 23. [Single Number](https://leetcode.com/problems/single-number/)
+24. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)
