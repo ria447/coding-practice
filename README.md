@@ -27,3 +27,4 @@ A repository for the solutions to the Coding problems.
 23. [Single Number](https://leetcode.com/problems/single-number/)
 24. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)
 25. [Power of Two](https://leetcode.com/problems/power-of-two/)
+26. [Binary Search](https://leetcode.com/problems/binary-search/)
