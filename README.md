@@ -28,3 +28,4 @@ A repository for the solutions to the Coding problems.
 24. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)
 25. [Power of Two](https://leetcode.com/problems/power-of-two/)
 26. [Binary Search](https://leetcode.com/problems/binary-search/)
+27. [First & Last Position of an element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/?envType=problem-list-v2&envId=array)
