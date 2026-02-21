@@ -32,4 +32,3 @@ A repository for the solutions to the Coding problems.
 28. [Plus One](https://leetcode.com/problems/plus-one/?envType=problem-list-v2&envId=array)
 29. [Squares of a Sorted Array](https://leetcode.com/problems/add-to-array-form-of-integer/?envType=problem-list-v2&envId=array)
 30. [Shuffle The Array](https://leetcode.com/problems/shuffle-the-array/?envType=problem-list-v2&envId=dsa-linear-shoal-array-i)
-31. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/submissions/1926393845/?envType=problem-list-v2&envId=dsa-linear-shoal-array-i)
