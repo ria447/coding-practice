@@ -34,3 +34,4 @@ A repository for the solutions to the Coding problems.
 30. [Shuffle The Array](https://leetcode.com/problems/shuffle-the-array/?envType=problem-list-v2&envId=dsa-linear-shoal-array-i)
 31. [How Many Numbers are Smaller than Current](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/?envType=problem-list-v2&envId=dsa-linear-shoal-array-ii)
 32. [Find all the numbers disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/?envType=problem-list-v2&envId=dsa-linear-shoal-array-ii)
+33. [Multiply two string](https://leetcode.com/problems/multiply-strings/submissions/1936057540/?envType=problem-list-v2&envId=string)
