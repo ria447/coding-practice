@@ -36,3 +36,4 @@ A repository for the solutions to the Coding problems.
 32. [Find all the numbers disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/?envType=problem-list-v2&envId=dsa-linear-shoal-array-ii)
 33. [Multiply two string](https://leetcode.com/problems/multiply-strings/submissions/1936057540/?envType=problem-list-v2&envId=string)
 34. [Reverse String 2](https://leetcode.com/problems/reverse-string-ii/)
+35. [Valid Paranthesis](https://leetcode.com/problems/valid-parentheses/)
